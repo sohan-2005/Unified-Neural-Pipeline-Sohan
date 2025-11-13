@@ -1,0 +1,12 @@
+torch
+torchaudio
+numpy
+soundfile
+pyannote.audio
+transformers
+whisperx
+scipy
+websockets
+uvicorn
+fastapi
+python-dotenv
